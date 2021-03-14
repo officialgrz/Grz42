@@ -24,7 +24,7 @@
 <p><a href="https://www.buymeacoffee.com/grz42"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="grz42" /></a></p><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grz42&theme=dracula&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grz42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grz42&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
