@@ -20,8 +20,8 @@
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
-<h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/grz42"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="grz42" /></a></p><br><br>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/grz42"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="grz42" /></a></p><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grz42&theme=dracula&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grz42&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
