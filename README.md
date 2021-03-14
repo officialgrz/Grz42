@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grz42&label=Profile%20views&color=0e75b6&style=flat" alt="grz42" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grz42" alt="grz42" /></a> </p>
-
 - 🔭 I’m currently working on **projects from 42 School.**
 
 - 🌱 I’m currently learning **C, C++, ...**
@@ -20,5 +18,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/grz42"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="grz42" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grz42&show_icons=true&locale=en&layout=compact" alt="grz42" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grz42&show_icons=true&locale=en&layout=compact" alt="grz42" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grz42&show_icons=true&locale=en" alt="grz42" /></p>
