@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grz42&show_icons=true&locale=en" alt="grz42" /></p>
 
-![macOS](https://www.apple.com/macos/big-sur/)
+<img alt="macOS" src="https://camo.githubusercontent.com/d7a21370dde87442a290657efa04cc66543346236a201de6bd2096b60b28e597/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61634f532d4269672532305375722d3239326533333f7374796c653d666c61742d737175617265266c6f676f3d6170706c65266c6f676f436f6c6f723d666666666666" data-canonical-src="https://img.shields.io/badge/macOS-Big%20Sur-292e33?style=flat-square&amp;logo=apple&amp;logoColor=ffffff" style="max-width:100%;">
