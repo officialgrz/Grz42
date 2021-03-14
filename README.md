@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grz42&show_icons=true&locale=en&layout=compact" alt="grz42" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grz42&show_icons=true&locale=en" alt="grz42" /></p>
+
+![macOS](https://www.apple.com/macos/big-sur/)
