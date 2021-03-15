@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **projects from 42 School.**
 - 🌱 I’m currently learning **C, C++, ...**
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Grz42?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Grz42?tab=repositories).
 - 📫 How to reach me **egrazina@student.42lisboa.com**
 
 ### Operating Systems:
